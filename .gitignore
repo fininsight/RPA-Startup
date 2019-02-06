@@ -240,3 +240,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Visual Studio .settings
+.vscode
