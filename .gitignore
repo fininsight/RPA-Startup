@@ -251,3 +251,7 @@ $RECYCLE.BIN/
 
 # test code about just *.test.py
 *.test.py
+
+3부.스타트업 업무 자동화 - 9장.회계 업무 자동화/Local*
+3부.스타트업 업무 자동화 - 8장.마케팅 업무 자동화/Local*
+venv.bat
